@@ -1,0 +1,42 @@
+C:\Users\georgia.webber\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\georgia.webber\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\georgia.webber\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\georgia.webber\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\OSIsoft.AF.UI.dll
+C:\Users\georgia.webber\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\OSIsoft.AFSDK.dll
+C:\Users\georgia.webber\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ADODB.dll
+C:\Users\georgia.webber\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\OSIsoft.AF.UI.xml
+C:\Users\georgia.webber\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\OSIsoft.AFSDK.xml
+C:\Users\georgia.webber\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\georgia.webber\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MainPage.resources
+C:\Users\georgia.webber\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\georgia.webber\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\georgia.webber\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\georgia.webber\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\georgia.webber\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\georgia.webber\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\OSIsoft.PISDK.Controls.dll
+C:\Users\georgia.webber\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\OSIsoft.PISDK.Controls.PIArchiveEditor.dll
+C:\Users\georgia.webber\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\OSIsoft.PISDK.Controls.PISDKCtrlDlg.dll
+C:\Users\georgia.webber\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\OSIsoft.PISDKDlg.dll
+C:\Users\georgia.webber\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\OSIsoft.AXPISDKCTL.dll
+C:\Users\georgia.webber\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\OSIsoft.PISDKCtl.dll
+C:\Users\georgia.webber\Documents\Engineering\OSIsoft PI\AF SDK Practice\PI AF SDK Course\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\georgia.webber\Documents\Engineering\OSIsoft PI\AF SDK Practice\PI AF SDK Course\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\georgia.webber\Documents\Engineering\OSIsoft PI\AF SDK Practice\PI AF SDK Course\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\georgia.webber\Documents\Engineering\OSIsoft PI\AF SDK Practice\PI AF SDK Course\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\OSIsoft.AF.UI.dll
+C:\Users\georgia.webber\Documents\Engineering\OSIsoft PI\AF SDK Practice\PI AF SDK Course\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\OSIsoft.AFSDK.dll
+C:\Users\georgia.webber\Documents\Engineering\OSIsoft PI\AF SDK Practice\PI AF SDK Course\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\OSIsoft.PISDK.Controls.dll
+C:\Users\georgia.webber\Documents\Engineering\OSIsoft PI\AF SDK Practice\PI AF SDK Course\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\OSIsoft.PISDK.Controls.PIArchiveEditor.dll
+C:\Users\georgia.webber\Documents\Engineering\OSIsoft PI\AF SDK Practice\PI AF SDK Course\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\OSIsoft.PISDK.Controls.PISDKCtrlDlg.dll
+C:\Users\georgia.webber\Documents\Engineering\OSIsoft PI\AF SDK Practice\PI AF SDK Course\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ADODB.dll
+C:\Users\georgia.webber\Documents\Engineering\OSIsoft PI\AF SDK Practice\PI AF SDK Course\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\OSIsoft.PISDKDlg.dll
+C:\Users\georgia.webber\Documents\Engineering\OSIsoft PI\AF SDK Practice\PI AF SDK Course\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\OSIsoft.AXPISDKCTL.dll
+C:\Users\georgia.webber\Documents\Engineering\OSIsoft PI\AF SDK Practice\PI AF SDK Course\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\OSIsoft.PISDKCtl.dll
+C:\Users\georgia.webber\Documents\Engineering\OSIsoft PI\AF SDK Practice\PI AF SDK Course\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\OSIsoft.AF.UI.xml
+C:\Users\georgia.webber\Documents\Engineering\OSIsoft PI\AF SDK Practice\PI AF SDK Course\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\OSIsoft.AFSDK.xml
+C:\Users\georgia.webber\Documents\Engineering\OSIsoft PI\AF SDK Practice\PI AF SDK Course\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\georgia.webber\Documents\Engineering\OSIsoft PI\AF SDK Practice\PI AF SDK Course\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MainPage.resources
+C:\Users\georgia.webber\Documents\Engineering\OSIsoft PI\AF SDK Practice\PI AF SDK Course\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\georgia.webber\Documents\Engineering\OSIsoft PI\AF SDK Practice\PI AF SDK Course\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\georgia.webber\Documents\Engineering\OSIsoft PI\AF SDK Practice\PI AF SDK Course\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\georgia.webber\Documents\Engineering\OSIsoft PI\AF SDK Practice\PI AF SDK Course\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\georgia.webber\Documents\Engineering\OSIsoft PI\AF SDK Practice\PI AF SDK Course\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
